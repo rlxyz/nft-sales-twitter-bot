@@ -1,0 +1,3 @@
+setup:
+  project: apdreamlab-nft-sales-twitter-bot
+  config: localhost
