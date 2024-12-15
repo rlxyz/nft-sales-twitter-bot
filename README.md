@@ -6,12 +6,6 @@ So, we need to monitor & process Ethereum event logs for NFT sale transactions d
 
 Currently, `Opensea`, `Blur`, `LooksRare` & `X2Y2` are supported.
 
-## Donations 💵
-
-Eth Address: 0x51C96e813e377E1a18B6867F932aE1B7b1600372
-
-Thank you 🙏
-
 ## Setup 🔧
 
 ### - abi.json
